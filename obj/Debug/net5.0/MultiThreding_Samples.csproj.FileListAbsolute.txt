@@ -1,0 +1,16 @@
+F:\MultiThreding_Samples\bin\Debug\net5.0\MultiThreding_Samples.exe
+F:\MultiThreding_Samples\bin\Debug\net5.0\MultiThreding_Samples.deps.json
+F:\MultiThreding_Samples\bin\Debug\net5.0\MultiThreding_Samples.runtimeconfig.json
+F:\MultiThreding_Samples\bin\Debug\net5.0\MultiThreding_Samples.runtimeconfig.dev.json
+F:\MultiThreding_Samples\bin\Debug\net5.0\MultiThreding_Samples.dll
+F:\MultiThreding_Samples\bin\Debug\net5.0\ref\MultiThreding_Samples.dll
+F:\MultiThreding_Samples\bin\Debug\net5.0\MultiThreding_Samples.pdb
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.csproj.AssemblyReference.cache
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.GeneratedMSBuildEditorConfig.editorconfig
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.AssemblyInfoInputs.cache
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.AssemblyInfo.cs
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.csproj.CoreCompileInputs.cache
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.dll
+F:\MultiThreding_Samples\obj\Debug\net5.0\ref\MultiThreding_Samples.dll
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.pdb
+F:\MultiThreding_Samples\obj\Debug\net5.0\MultiThreding_Samples.genruntimeconfig.cache
